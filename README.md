@@ -33,5 +33,6 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KAVINESH23&theme=highcontrast&hide_border=false)<br/>
 
-![Snake animation](https://raw.githubusercontent.com/kavinesh-rc/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/KAVINESH23/KAVINESH23/output/snake.svg" width = 1500 alt="Snake animation" />
+
 
