@@ -32,3 +32,6 @@
 # 🔥Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KAVINESH23&theme=highcontrast&hide_border=false)<br/>
+
+![Snake animation](https://raw.githubusercontent.com/kavinesh-rc/snk/output/github-contribution-grid-snake.svg)
+
